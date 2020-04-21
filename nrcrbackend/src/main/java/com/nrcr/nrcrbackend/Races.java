@@ -7,7 +7,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 import java.time.LocalDate;
 import java.util.ArrayList;
 
-@Document(collection = "A_Collection")
+@Document(collection = "race_results")
 
 public @Data
 class Races {
